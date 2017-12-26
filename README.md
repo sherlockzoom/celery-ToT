@@ -1,5 +1,10 @@
 celery
 ---
+# install
+
+`$ pip install Celery`
+
+# run
 
 +  定义task，然后使用下面命令启动
 
